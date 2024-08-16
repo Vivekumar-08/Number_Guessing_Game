@@ -3,7 +3,6 @@
 #include<ctime>
 
 using namespace std;
-
 int main() {
     srand((unsigned)time(0));
     int number = rand() % 100 + 1;
