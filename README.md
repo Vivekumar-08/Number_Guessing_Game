@@ -14,23 +14,23 @@ This project is a **Number Guessing Game** implemented in C++. The computer rand
 - Infinite attempts until the correct guess is made.
 - Feedback on each guess (too high, too low, or correct).
 
-## Requirements
-
-- A C++ compiler such as GCC or Clang.
-
 ## How to Run the Program
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/Vivekumar-08/Number_Guessing_Game.git
 
-## Compile the program: 
-Use the following command to compile the C++ code:
-g++ number_guessing_game.cpp -o number_guessing_game
+2. **Navigate to the Reprosetory**
+   ```
+   cd BreadcrumbsNumber_Guessing_Game
 
-## Run the program:
-Run the compiled binary to start the game: 
-./number_guessing_game
+3. **Compile the program**
+   ```
+   gcc Number_guessing_game.CPP -o number_guessing_game
+
+4. **Run the program**
+   ```
+   ./number_guessing_game
 
 ## Play the Game:
 The program will prompt you to enter your guess, and it will continue until you correctly guess the number.
@@ -63,6 +63,3 @@ Add a feature to limit the number of guesses and display a "Game Over" message i
 Provide options for different difficulty levels (e.g., easy with numbers from 1-50, hard with numbers from 1-1000).
 Add a score system to track the number of guesses made.
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute as needed.
- Feel free to modify the `README.md` to suit your needs and replace any placeholder content, such as the GitHub repository link.
