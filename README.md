@@ -1,6 +1,6 @@
 ## Number Guessing Game
 
-This project is a simple **Number Guessing Game** implemented in C++. The computer randomly selects a number between 1 and 100, and the player has to guess the number. The game provides feedback whether the guess is too high, too low, or correct.
+This project is a **Number Guessing Game** implemented in C++. The computer randomly selects a number between 1 and 100, and the player has to guess the number. The game provides feedback whether the guess is too high, too low, or correct.
 
 ## How It Works
 
