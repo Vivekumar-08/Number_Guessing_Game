@@ -22,7 +22,7 @@ This project is a **Number Guessing Game** implemented in C++. The computer rand
 
 2. **Navigate to the Reprosetory**
    ```
-   cd BreadcrumbsNumber_Guessing_Game
+   cd Number_Guessing_Game
 
 3. **Compile the program**
    ```
